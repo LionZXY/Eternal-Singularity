@@ -1,5 +1,10 @@
 # Eternal Singularity
-The Official Github Repository of the Mod, <a href="https://minecraft.curseforge.com/projects/eternal-singularity">Eternal Singularity</a>!
+The Official Github Repository of the Mod, [Eternal Singularity](https://minecraft.curseforge.com/projects/eternal-singularity)!
 
-Made and Maintained By:
-<a href="https://github.com/RCXCrafter">RCXCrafter</a>, <a href="https://github.com/Wanioncane">WanionCane</a> and <a href="https://github.com/Wealthyturtle">Wealthyturtle</a>
+Made and Maintained by: [RCXCrafter](https://github.com/RCXCrafter), [WanionCane](https://github.com/Wanioncane) and [Wealthyturtle](https://github.com/Wealthyturtle)
+
+# Permission
+
+This mod was forked by the GTNH Team to continue the development of the 1.7.10 Branch. 
+
+[Permission](permission.png) was kindly granted to maintain and release.
